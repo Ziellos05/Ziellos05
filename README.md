@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roland Ortega, my nickname is @Ziellos05.
 - 🌱 I’m currently learning ... Javascrip and MERN stack.
-- 💞️ I’m looking to collaborate on ... The proyect of my team in MisionTic 2022.
+- 💞️ I’m looking to collaborate on ... The proyect of my team in MisionTIC 2022.
 - 📫 I’m in Linkedin: https://www.linkedin.com/in/roland-andrés-ortega-ayala/
 
 Mi published websites:
