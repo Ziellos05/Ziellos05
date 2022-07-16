@@ -1,4 +1,4 @@
-## ** Gordon Freeman Backend queries per route **
+## ** Queries per route, this is my first released backend **
 
 1. Users -> api/users
 
