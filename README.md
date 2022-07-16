@@ -18,7 +18,7 @@ Mi published websites 🌍:
  - Backend documentation: https://github.com/Ziellos05/Ziellos05/blob/main/ProjectManagement-Backend.md
  - Repository: https://github.com/Ziellos05/proyecto-web-ciclo-4/
 
-3. Gordon Freeman Gourment 🎮🍝: MERN STACK (DATE: July 2022)
+3. Gordon Freeman Gourmet 🎮🍝: MERN STACK (DATE: July 2022)
  - Frontend: https://gordon-freeman-gourmet.herokuapp.com/
  - Backend: https://gf-restaurant-backend.herokuapp.com/
  - Backend documentation: https://github.com/Ziellos05/Ziellos05/blob/main/GordonFreeman-Backend.md
