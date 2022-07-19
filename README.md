@@ -11,7 +11,7 @@ Mi published websites 🌍:
  - Backend documentation: https://github.com/Ziellos05/Ziellos05/blob/main/SuperVentas-Backend.md
  - Respository: https://github.com/Ziellos05/proyecto-ciclo3-udea
 
-2. Projects Manager 🔬: MERN STACK & MONGODB (DATE: January 2022)
+2. Projects Manager 🔬: MERN STACK & GRAPHQL (DATE: January 2022)
  - Frontend: https://proyecto-web-ciclo4.herokuapp.com/
  - Backend: https://gestor-de-proyectos-backend.herokuapp.com/graphql
  - Sandbox to explore the backend: https://studio.apollographql.com/sandbox/explorer
