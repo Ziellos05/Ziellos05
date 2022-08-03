@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roland Ortega, my nickname is @Ziellos05.
-- 🌱 I’m currently learning... Django for Everybody on Coursera. 
+- 🌱 I’m currently learning... Django for Everybody & Applied Data Science with Python on Coursera. 
 - 💞️ I’m looking for a job as programmer... You can see my CV in https://resume.io/r/jUYkzNBCk.
 - 📫 I’m in Linkedin: https://www.linkedin.com/in/roland-andrés-ortega-ayala/
 
