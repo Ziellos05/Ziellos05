@@ -2,6 +2,8 @@
 
 1. Users -> api/users
 
+![alt text](http://url/to/img.png](https://raw.githubusercontent.com/Ziellos05/Ziellos05/main/img/1-useremail.png)
+
 - GET: Retorna todos los usuarios, /:email retorna por el correo.
 
 - POST: Agrega un usuario nuevo.
