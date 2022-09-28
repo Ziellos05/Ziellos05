@@ -1,8 +1,9 @@
 ## ** Queries per route, this is my first released backend **
 
 1. Users -> api/users
+      Cancel changes
 
-![alt text](http://url/to/img.png](https://raw.githubusercontent.com/Ziellos05/Ziellos05/main/img/1-useremail.png)
+![alt text](https://raw.githubusercontent.com/Ziellos05/Ziellos05/main/img/1-useremail.png?raw=true)
 
 - GET: Retorna todos los usuarios, /:email retorna por el correo.
 
