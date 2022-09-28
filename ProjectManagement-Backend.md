@@ -2,15 +2,15 @@
 
 Sandbox:
 
-![Screenshot](screenshot.png](https://raw.githubusercontent.com/Ziellos05/Ziellos05/main/img/2-sandbox.png)
+![Screenshot](https://raw.githubusercontent.com/Ziellos05/Ziellos05/main/img/2-sandbox.png)
 
 Queries:
 
-![Screenshot](screenshot.png](https://raw.githubusercontent.com/Ziellos05/Ziellos05/main/img/2-queries.png)
+![Screenshot](https://raw.githubusercontent.com/Ziellos05/Ziellos05/main/img/2-queries.png)
 
 Mutations:
 
-![Screenshot](screenshot.png](https://raw.githubusercontent.com/Ziellos05/Ziellos05/main/img/2-mutations.png)
+![Screenshot](https://raw.githubusercontent.com/Ziellos05/Ziellos05/main/img/2-mutations.png)
 
 1. Historia de usuario: HU_001
 
