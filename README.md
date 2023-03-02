@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Roland Ortega, my nickname is @Ziellos05.
-- 🌱 I’m currently learning... Django for Everybody & Applied Data Science with Python on Coursera. 
-- 💞️ I’m looking for a job as programmer... You can see my CV in https://resume.io/r/jUYkzNBCk.
+- 🌱 I’m currently learning Software Architecture, Clean Code and Backend with Java using platforms such as Open Bootcamp and Platzi.
+- 💞️ I’m looking for opportunities as programmer... You can see my CV in https://resume.io/r/jUYkzNBCk.
 - 📫 I’m in Linkedin: https://www.linkedin.com/in/roland-andres-ortega-ayala/
 
-Mi published websites 🌍:
+Mi published websites 🌍: (Heroku changed its politics and now every app is down, my bad, but the repositories are still avalible c: )
 
  1. Super Ventas Reactivas 💰: MERN STACK (DATE: October 2021)
  - Frontend: https://super-ventas-reactivas.herokuapp.com/
