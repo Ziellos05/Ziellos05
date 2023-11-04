@@ -15,7 +15,7 @@ type Person struct {
    Age int `default:"26"` 🔞
    Location string `default:"Medellín, Colombia"` 📍
 
-   Skills []string `default:[3]string{"Clean Architecture", "APIs", "Microservices"}` 🥷
+   Skills []string `default:[3]string{"Clean Architecture", "Clean Code", "APIs", "Microservices", "Backend"}` 🥷
 
 }
 ```
