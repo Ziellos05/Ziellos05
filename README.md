@@ -101,7 +101,7 @@ Highlighted project: [Print-Spool]()
 [<img align="left" height="94px" width="94px" alt="Universidad de Antioquia" src="https://scontent.feoh1-1.fna.fbcdn.net/v/t1.6435-9/160651322_203600514892400_4933417926199927815_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=be3454&_nc_ohc=C_rIjgmoemEAX_8EEuW&_nc_oc=AQlBqCyUJtqziQhC9QAnEw9PCJsvtWidkLt18TxA-rr13IeZSf85KaEZ5oWCOUawqWo&_nc_ht=scontent.feoh1-1.fna&oh=00_AfAZhn2_Z6y_K52EGEF8UAofXid59x3SutVMCnqYrxXy4g&oe=656E2AA6"/>](https://www.udea.edu.co)
 
 **Programming Mentor** \
-[**Universidad de Antioquia**](https://www.udea.edu.co) • Contract \
+[**Universidad de Antioquia**](https://www.udea.edu.co) • Part-time \
 Languages & Technologies: `Python`, `Java`, `Spring`, `ReactJS`, `Heroku`\
 Highlighted project: [Mentoring classes]()
 <br/>
