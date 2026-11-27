@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Ziellos05&color=006bed)
 
-# Hello, World! 👋🌎
+# Hello, World! 👋🌎 -> This page is at least 4 years old, DEPRECATED.
 
 Development enjoyer. Currently software architect's pupil.
 
